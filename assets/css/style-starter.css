@@ -1,14 +1,5 @@
 @charset "UTF-8";
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
---*/
-/*!
- * Bootstrap v4.4.1 (https://getbootstrap.com/)
- * Copyright 2011-2019 The Bootstrap Authors
- * Copyright 2011-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -15059,7 +15050,7 @@ ul.social-icons-top a:hover span.fa {
   align-items: center;
   background-size: cover;
   -ms-background-size: cover;
-  background-image: linear-gradient(to right, rgb(1 0 6 / 75%), rgb(1 0 10 / 75%)), url(../images/banner2.jpg);
+  background-image: linear-gradient(to right, rgb(1 0 6 / 75%), rgb(1 0 10 / 75%)), url(../images/jnbcarpetadvert2.JPG);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -16327,7 +16318,7 @@ button.owl-next {
 
 .w3l-inner-page-breadcrumb {
   background-size: cover;
-  background-image: linear-gradient(to right, rgb(0 5 14 / 75%), rgb(1 5 14 / 75%)), url(../images/banner3.jpg);
+  background-image: linear-gradient(to right, rgb(0 5 14 / 75%), rgb(1 5 14 / 75%)), url(../images/jnbcarpetadvert2.JPG);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   background-attachment: fixed;
