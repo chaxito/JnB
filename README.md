@@ -4,7 +4,7 @@ Author of this repository is Charles Muli.
 
 ## Company Profile
 
-This a website for JnB company. A private company owned and managed by 
+This a website for JnB company. A private company owned and managed by JnB Holdings.
 
 ## Licence
 
